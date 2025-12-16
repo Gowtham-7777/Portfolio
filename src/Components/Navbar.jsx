@@ -36,7 +36,7 @@ const Navbar = ({menuOpen, setMenuOpen}) => {
             <a href="#about" className="text-gray-300 hover:text-blue-500 transition-colors">About</a>
             <a href="#projects" className="text-gray-300 hover:text-blue-500 transition-colors">Projects</a>
             <a href="#contact" className="text-gray-300 hover:text-blue-500 transition-colors">Contact</a>
-            <a href="https://drive.google.com/file/d/1PK6z3iKyby1PcAO8MRXJ5jExphokpJF6/view?usp=sharing" target="_blank" className="text-gray-300 hover:text-blue-500 transition-colors">Resume</a>
+            <a href="https://drive.google.com/file/d/1IULLURenWyj7E9N3InIhkSGEAZtq8qFC/view?usp=drive_link" target="_blank" className="text-gray-300 hover:text-blue-500 transition-colors">Resume</a>
           </div>
         </div>
       </div>
