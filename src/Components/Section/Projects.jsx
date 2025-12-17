@@ -20,7 +20,7 @@ const Projects = () => {
               <h3 className="text-xl md:text-2xl font-bold mb-2 mt-6 ">
                 Book a Doctor
               </h3>
-              <p className="text-gray-400 mb-4">
+              <p className="text-gray-400 mb-2">
                 A full-stack healthcare web application that allows users to
                 book doctor appointments, manage patient profiles, and access
                 medical records through a responsive UI. It implements secure
@@ -29,7 +29,7 @@ const Projects = () => {
                 React, Node.js, Express, and MongoDB, and deployed on Vercel for
                 scalable performance and high availability.
               </p>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center ">
                 <a
                   href="https://smarthealth-management-system.vercel.app/"
                   target="_blank"
@@ -48,7 +48,7 @@ const Projects = () => {
               <h3 className="text-xl md:text-2xl font-bold mb-2 mt-6 ">
                 Pokedox Lite
               </h3>
-              <p className="text-gray-400 mb-4">
+              <p className="text-gray-400 mb-13">
                 A lightweight Pokédex web application that allows users to
                 browse Pokémon using a responsive grid-based layout. It fetches
                 real-time Pokémon data from a public API and displays detailed
