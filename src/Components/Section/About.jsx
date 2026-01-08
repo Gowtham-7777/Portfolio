@@ -16,13 +16,14 @@ const About = () => {
     { id: "6", name: "Java", icon: "devicon-java-plain colored" },
     { id: "7", name: "JavaScript", icon: "devicon-javascript-plain colored" },
     { id: "8", name: "TypeScript", icon: "devicon-typescript-plain colored" },
-    { id: "9", name: "React.js", icon: "devicon-react-original colored" },
-    { id: "10", name: "Next.js", icon: "devicon-nextjs-original" }, // (black/white, no colored version)
-    { id: "11", name: "Vue.js", icon: "devicon-vuejs-plain colored" },
-    { id: "12", name: "Node.js", icon: "devicon-nodejs-plain colored" },
-    { id: "13", name: "Express.js", icon: "devicon-express-original" }, // (express has no colored icon)
-    { id: "14", name: "MySQL", icon: "devicon-mysql-plain colored" },
-    { id: "15", name: "MongoDB", icon: "devicon-mongodb-plain colored" },
+    { id: "9", name: "Angular", icon: "devicon-angularjs-original colored" },
+    { id: "10", name: "React.js", icon: "devicon-react-original colored" },
+    { id: "11", name: "Next.js", icon: "devicon-nextjs-original" }, // (black/white, no colored version)
+    { id: "12", name: "Vue.js", icon: "devicon-vuejs-plain colored" },
+    { id: "13", name: "Node.js", icon: "devicon-nodejs-plain colored" },
+    { id: "14", name: "Express.js", icon: "devicon-express-original" }, // (express has no colored icon)
+    { id: "15", name: "MySQL", icon: "devicon-mysql-plain colored" },
+    { id: "16", name: "MongoDB", icon: "devicon-mongodb-plain colored" },
   ];
 
   // const Frameworks = [
