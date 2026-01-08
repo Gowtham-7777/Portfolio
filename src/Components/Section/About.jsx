@@ -16,7 +16,7 @@ const About = () => {
     { id: "6", name: "Java", icon: "devicon-java-plain colored" },
     { id: "7", name: "JavaScript", icon: "devicon-javascript-plain colored" },
     { id: "8", name: "TypeScript", icon: "devicon-typescript-plain colored" },
-    { id: "9", name: "Angular", icon: "devicon-angularjs-original colored" },
+    { id: "9", name: "Angular", icon:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"},
     { id: "10", name: "React.js", icon: "devicon-react-original colored" },
     { id: "11", name: "Next.js", icon: "devicon-nextjs-original" }, // (black/white, no colored version)
     { id: "12", name: "Vue.js", icon: "devicon-vuejs-plain colored" },
